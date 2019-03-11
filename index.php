@@ -139,7 +139,7 @@
                                 <li> <strong> Date of Birth : </strong> <span>02 july 1996</span></li>
                                 <li> <strong>Nationality : </strong><span>Indian</span></li>
                                 <li> <strong> Contact : </strong><span>+91 9675500039</span></li>
-                                <li> <strong> Email : </strong><span>rgdeveloper1@gmail.com</span></li>
+                                <li> <strong> Email : </strong><span>contact@rohitguptarg.com</span></li>
                                 <li> <strong> Freelance : </strong> <span>Available</span></li>
                                 <li> <strong> Address : </strong><span>Amrapali Princely Estate,Sector-76,Noida (UP)</span></li>
                             </ul>
