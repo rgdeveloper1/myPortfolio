@@ -1,5 +1,4 @@
  $(document).ready(function () {
-
      //  Loder
      $(".loading").animate({
          "top": "-100%"
